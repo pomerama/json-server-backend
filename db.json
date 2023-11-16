@@ -1,5 +1,5 @@
 {
-  "projects": [
+  "dogs": [
     {
       "id": 1,
       "title": "Module 2 Project",
@@ -11,6 +11,16 @@
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "title": "New Project",
+      "description": "This is a new project.",
+      "id": 4
+    },
+    {
+      "title": "New Project",
+      "description": "This is a new project.",
+      "id": 5
     }
   ],
   "tasks": [
@@ -28,6 +38,12 @@
       "id": 3,
       "projectId": 2,
       "description": "Create a form with 5 input fields"
+    },
+    {
+      "projectId": 2,
+      "title": "New Task",
+      "description": "This is a new task.",
+      "id": 4
     }
   ]
 }

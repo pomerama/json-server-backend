@@ -1,12 +1,60 @@
 {
+  "users": [
+    {
+      "email": "firstUser@email.com",
+      "password": "$2a$10$KCu4CTp4Pjkol5fRonSE9.O9u9NRTdWfK.qX2zjIBBiY3YhNkmoEW",
+      "id": 1
+    },
+    {
+      "email": "awesomeUser@mail.com",
+      "password": "$2a$10$3AqecgafElnx58nb8/oXne41bFsChaQB3m7u.NGdSd88OKasXBN6K",
+      "id": 2
+    }
+  ],
   "posts": [
     {
       "id": 1,
-      "title": "First post"
+      "title": "First post",
+      "image": "https://i.pravatar.cc/300?img=1",
+      "userId": 1
     },
     {
       "id": 2,
-      "title": "Some another awesome post"
+      "title": "Second post",
+      "image": "https://i.pravatar.cc/300?img=2",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "image": "https://i.pravatar.cc/300?img=3",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Fourth post",
+      "image": "https://i.pravatar.cc/300?img=4",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "title": "Fith post",
+      "image": "https://i.pravatar.cc/300?img=5",
+      "userId": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "some nice comment",
+      "postId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "text": "terrible comment",
+      "postId": 1,
+      "userId": 2
     }
   ]
 }

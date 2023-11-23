@@ -13,34 +13,333 @@
   ],
   "posts": [
     {
-      "title": "First post",
-      "image": "https://i.pravatar.cc/300?img=1",
-      "id": 1
+      "title": "I just got my mic arm and I'm super proud that I managed to get my first ever setup done to the point where I'm happy with it.",
+      "image": "https://preview.redd.it/qkfp7ak3xh1c1.jpg?width=960&crop=smart&auto=webp&s=f7aa08917ed49d36905c1b09ee79dd82ae3d871f",
+      "description": "Some context. I'm on disability and I've been making due for most of my time. But I've not had any funds to improve my setup. Luckily a charity that grants funds for people with longtime disabilities approved my application and funded me the mic in the photo and a pair of Audio-Technica ATH-M50X headphones! And I managed to save up for the Roadworx Microphone Arm, completing my setup!",
+      "id": 2
     },
     {
-      "id": 2,
-      "title": "Second post",
-      "image": "https://i.pravatar.cc/300?img=2",
-      "userId": 1
+      "title": "Did you like my car?",
+      "image": "https://miro.medium.com/v2/resize:fit:640/1*n7Rw2K2Aer6rYigXjfjY0A.jpeg",
+      "description": "Be me shall purse my ought times. Joy years doors all would again rooms these. Solicitude announcing as to sufficient my. No my reached suppose proceed pressed perhaps he. Eagerness it delighted pronounce repulsive furniture no. Excuse few the remain highly feebly add people manner say. It high at my mind by roof. No wonder worthy in dinner.",
+      "id": 3
     },
     {
-      "id": 3,
-      "title": "Third post",
-      "image": "https://i.pravatar.cc/300?img=3",
-      "userId": 1
-    },
-    {
-      "title": "Fourth post",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bitterballen_mosterd_mayo.jpg",
+      "title": "Casual Chic Vibes 🌟 | Rate My Everyday Look!",
+      "image": "https://image.winudf.com/v2/image1/Y29tLndvbWVuLm91dGZpdHNfc2NyZWVuXzJfMTU2Mzc4MTAzOF8wMTE/screen-2.jpg?fakeurl=1&type=.jpg",
+      "description": "Hey fashionistas! 👗✨ Today's outfit is all about embracing casual chic vibes with a touch of effortless style. I've put together a look that's perfect for a laid-back day out or even a casual coffee date.",
       "id": 4
     },
     {
-      "id": 5,
-      "title": "Fith post",
-      "image": "https://i.pravatar.cc/300?img=5",
-      "userId": 2
+      "title": "Hello RMS! Rate my art please!",
+      "image": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg",
+      "description": "In this celestial masterpiece, the swirling cosmos dance in a symphony of ethereal hues. A celestial ballet unfolds beneath the cosmic canopy, whispering tales of the night sky's enigmatic beauty. Behold, as the stars converse with the soul, igniting a cosmic reverie within the observer's heart.",
+      "id": 5
+    },
+    {
+      "title": "What do you think about my pasta? Be honest, RMS!",
+      "image": "https://www.foodandwine.com/thmb/c-MBu_vMHq3EcoN_KPxwg-oZjKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pasta-Aglio-E-Olio-2-FT-RECIPE0123-38cd2045646a4635a80e8166f085fc7e.jpg",
+      "description": "In this culinary canvas, al dente strands embrace a symphony of flavors. The pasta, a gastronomic poem, intertwines with rich tomato melodies, herbaceous notes, and the subtle dance of Parmesan snowflakes. Savor the masterpiece, where each bite tells a story of love and culinary artistry.",
+      "id": 6
+    },
+    {
+      "title": "I tried to cook cake for the first time!",
+      "image": "https://img-global.cpcdn.com/recipes/849082cb3bb5ff96/680x482cq70/homemade-cake-recipe-main-photo.jpg",
+      "description": "Every comment is appriciated and please be honest, RMS!",
+      "id": 7
+    },
+    {
+      "title": "My DIY Pots",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/06/Colorful-Wooden-Geometric-Planters-1024x684.jpg",
+      "description": "In these homemade plant pots, you'll find a touch of creativity and a whole lot of green goodness. The pots are made with care, painted in cheerful colors that bring a smile to any space. Each one is like a tiny garden home for your plants, made with love and a sprinkle of DIY magic!",
+      "id": 8
     }
   ],
-  "ratings": [],
-  "comments": []
+  "ratings": [
+    {
+      "starsCount": 5,
+      "postId": 2,
+      "id": 3
+    },
+    {
+      "starsCount": 4,
+      "postId": 2,
+      "id": 4
+    },
+    {
+      "starsCount": 3,
+      "postId": 2,
+      "id": 5
+    },
+    {
+      "starsCount": 2,
+      "postId": 2,
+      "id": 6
+    },
+    {
+      "starsCount": 1,
+      "postId": 2,
+      "id": 7
+    },
+    {
+      "starsCount": 2,
+      "postId": 2,
+      "id": 8
+    },
+    {
+      "starsCount": 3,
+      "postId": 2,
+      "id": 9
+    },
+    {
+      "starsCount": 4,
+      "postId": 2,
+      "id": 10
+    },
+    {
+      "starsCount": 5,
+      "postId": 2,
+      "id": 11
+    },
+    {
+      "starsCount": 4,
+      "postId": 2,
+      "id": 12
+    },
+    {
+      "starsCount": 3,
+      "postId": 2,
+      "id": 13
+    },
+    {
+      "starsCount": 2,
+      "postId": 2,
+      "id": 14
+    },
+    {
+      "starsCount": 1,
+      "postId": 2,
+      "id": 15
+    },
+    {
+      "starsCount": 3,
+      "postId": 2,
+      "id": 16
+    },
+    {
+      "starsCount": 5,
+      "postId": 2,
+      "id": 17
+    },
+    {
+      "starsCount": 1,
+      "postId": 2,
+      "id": 18
+    },
+    {
+      "starsCount": 1,
+      "postId": 2,
+      "id": 19
+    },
+    {
+      "starsCount": 1,
+      "postId": 2,
+      "id": 20
+    },
+    {
+      "starsCount": 2,
+      "postId": 2,
+      "id": 21
+    },
+    {
+      "starsCount": 4,
+      "postId": 2,
+      "id": 22
+    },
+    {
+      "starsCount": 3,
+      "postId": 2,
+      "id": 23
+    },
+    {
+      "starsCount": 4,
+      "postId": 3,
+      "id": 24
+    },
+    {
+      "starsCount": 2,
+      "postId": 3,
+      "id": 25
+    },
+    {
+      "starsCount": 5,
+      "postId": 4,
+      "id": 26
+    },
+    {
+      "starsCount": 1,
+      "postId": 4,
+      "id": 27
+    },
+    {
+      "starsCount": 1,
+      "postId": 2,
+      "id": 28
+    },
+    {
+      "starsCount": 5,
+      "postId": 2,
+      "id": 29
+    },
+    {
+      "starsCount": 1,
+      "postId": 8,
+      "id": 30
+    },
+    {
+      "starsCount": 5,
+      "postId": 8,
+      "id": 31
+    },
+    {
+      "starsCount": 1,
+      "postId": 5,
+      "id": 32
+    },
+    {
+      "starsCount": 5,
+      "postId": 5,
+      "id": 33
+    },
+    {
+      "starsCount": 1,
+      "postId": 6,
+      "id": 34
+    },
+    {
+      "starsCount": 5,
+      "postId": 6,
+      "id": 35
+    },
+    {
+      "starsCount": 1,
+      "postId": 7,
+      "id": 36
+    },
+    {
+      "starsCount": 5,
+      "postId": 7,
+      "id": 37
+    }
+  ],
+  "comments": [
+    {
+      "text": "Such a nice setup! Keep up the good work!",
+      "postId": 2,
+      "date": "23.11.2023 11:08:30",
+      "id": 1
+    },
+    {
+      "text": "Maybe you can put arm a little bit up so it won't effect your view...",
+      "postId": 2,
+      "date": "23.11.2023 11:09:07",
+      "id": 2
+    },
+    {
+      "text": "I loved it! Can you send me the link of your keyboard?",
+      "postId": 2,
+      "date": "23.11.2023 11:09:18",
+      "id": 3
+    },
+    {
+      "text": "Seems very clean, how much did you paid?",
+      "postId": 3,
+      "date": "23.11.2023 11:09:49",
+      "id": 4
+    },
+    {
+      "text": "White color? It's max 2 rating from me... Sorry pal!",
+      "postId": 3,
+      "date": "23.11.2023 11:10:01",
+      "id": 5
+    },
+    {
+      "text": "Take care while you are driving it!",
+      "postId": 3,
+      "date": "23.11.2023 11:10:32",
+      "id": 6
+    },
+    {
+      "text": "🔥🔥🔥",
+      "postId": 4,
+      "date": "23.11.2023 11:10:47",
+      "id": 7
+    },
+    {
+      "text": "Awwww the dog in the background is so cuuuwwte! ^_^",
+      "postId": 4,
+      "date": "23.11.2023 11:11:07",
+      "id": 8
+    },
+    {
+      "text": "🔥🔥🔥🔥🔥",
+      "postId": 4,
+      "date": "23.11.2023 11:11:09",
+      "id": 9
+    },
+    {
+      "text": "Vincent... Is that you??",
+      "postId": 5,
+      "date": "23.11.2023 11:11:21",
+      "id": 10
+    },
+    {
+      "text": "I am all ears listening you.",
+      "postId": 5,
+      "date": "23.11.2023 11:11:55",
+      "id": 11
+    },
+    {
+      "text": "Yummy!",
+      "postId": 6,
+      "date": "23.11.2023 11:12:31",
+      "id": 12
+    },
+    {
+      "text": "I am italian and I liked it! 🇮🇹 🇮🇹",
+      "postId": 6,
+      "date": "23.11.2023 11:12:46",
+      "id": 13
+    },
+    {
+      "text": "Atleast you tried... 3 for an efford.",
+      "postId": 7,
+      "date": "23.11.2023 11:13:07",
+      "id": 14
+    },
+    {
+      "text": "Looks yummy but maybe you should cook it a little longer...",
+      "postId": 7,
+      "date": "23.11.2023 11:13:19",
+      "id": 15
+    },
+    {
+      "text": "Those are awesome! Do you have an etsy link or something like that?",
+      "postId": 8,
+      "date": "23.11.2023 11:13:37",
+      "id": 16
+    },
+    {
+      "text": "Can you share your progress? I would like to do it too!",
+      "postId": 8,
+      "date": "23.11.2023 11:13:53",
+      "id": 17
+    },
+    {
+      "text": "They look like children toy. 1/5",
+      "postId": 8,
+      "date": "23.11.2023 11:14:04",
+      "id": 18
+    }
+  ]
 }

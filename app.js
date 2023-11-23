@@ -6,7 +6,7 @@ https://github.com/jeremyben/json-server-auth#readme
 
 require("dotenv").config();
 const jsonServer = require("json-server");
-const auth = require('json-server-auth')
+// const auth = require('json-server-auth')
 const morgan = require("morgan");
 
 const server = jsonServer.create();
@@ -49,7 +49,7 @@ How to use:
 
 
 server.use(middlewares);
-server.use(auth);
+// server.use(auth);
 server.use(morgan("dev"));
 server.use((req, res, next) => {
   // Middleware to disable CORS
